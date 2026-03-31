@@ -31,7 +31,9 @@ int main()
 }
 
 
-▶️ OnlineGDB Link : https://onlinegdb.com/6pI-IT9M5
+▶️ OnlineGDB Link :
+
+https://onlinegdb.com/6pI-IT9M5
 
 
 
@@ -71,7 +73,9 @@ int main()
 
 📄 Source:
 
-▶️ OnlineGDB Link : https://onlinegdb.com/YLl7aGgeX
+▶️ OnlineGDB Link :
+
+https://onlinegdb.com/6pI-IT9M5
 
 
 
@@ -125,8 +129,9 @@ int main()
 
 📄 Source:
 
-▶️ OnlineGDB Link : https://onlinegdb.com/eTPKkgfGn
+▶️ OnlineGDB Link :
 
+https://onlinegdb.com/YLl7aGgeX
 
 
 📸 Output Screenshot
@@ -160,8 +165,9 @@ int main()
 
 📄 Source:
 
-▶️ OnlineGDB Link : https://onlinegdb.com/_biSPhUZbr
+▶️ OnlineGDB Link :
 
+https://onlinegdb.com/_biSPhUZbr
 
 📸 Output Screenshot
 
