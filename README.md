@@ -29,13 +29,16 @@ int main()
 
     return 0;
 }
+
+
 ▶️ OnlineGDB Link : https://onlinegdb.com/6pI-IT9M5
 
 
 
 📸 Output Screenshot
 
-<img width="376" height="83" alt="image" src="https://github.com/user-attachments/assets/ead39d13-0951-40e8-8a35-f884ca9bda1e" />
+<img width="376" height="83" alt="Screenshot 2026-03-31 171101" src="https://github.com/user-attachments/assets/304ab74d-da8b-44ec-ade3-72cca4bdc60f" />
+
 
 
 🔢 3. Check Divisible by 3 and 5
@@ -74,7 +77,8 @@ int main()
 
 📸 Output Screenshot
 
-<img width="469" height="149" alt="image" src="https://github.com/user-attachments/assets/8254535f-3be3-495d-b276-487afe12e1ef" />
+<img width="469" height="149" alt="Screenshot 2026-03-31 171312" src="https://github.com/user-attachments/assets/935bed1c-3681-42ed-8943-b3fbec546f0c" />
+
 
 
 🔢 4. Sum of Two Arrays using Pointer
@@ -127,7 +131,7 @@ int main()
 
 📸 Output Screenshot
 
-<img width="477" height="234" alt="image" src="https://github.com/user-attachments/assets/d3c24560-6ac9-4815-a1ac-1f77ea3df983" />
+<img width="393" height="163" alt="Screenshot 2026-03-31 171438" src="https://github.com/user-attachments/assets/6fc884c1-3366-4c4b-811e-f2e66cbb67dc" />
 
 
 🔢 5. Pattern Program
@@ -160,7 +164,8 @@ int main()
 
 
 📸 Output Screenshot
-<img width="391" height="148" alt="image" src="https://github.com/user-attachments/assets/3ba30e43-219a-4ce3-b320-1f91242067a8" />
+
+<img width="477" height="234" alt="Screenshot 2026-03-31 171741" src="https://github.com/user-attachments/assets/20048b45-e3b3-4927-8d66-9f6806119938" />
 
 
 
